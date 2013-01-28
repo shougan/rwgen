@@ -6,7 +6,10 @@
 
 # Ignore bundler config
 .bundle
+.gitignore
 *.mov
+*.java
+*.class
 *.tmp
 db/*.sqlite3*
 imgs/
